@@ -1,4 +1,5 @@
 # slot_machine
 This is a test from NetEnt Company
 
-<h3>Live demo</h3>Mint's Sign up page](https://raw.githack.com/lirad/html-forms/features/index.html
+<h3>Live demo</h3>
+([Live Demo](https://mortiz95.github.io/slot_machine/)
