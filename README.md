@@ -1,4 +1,4 @@
-# slot_machine
+# SLOT MACHINE
 This is a test from NetEnt Company
 
 
