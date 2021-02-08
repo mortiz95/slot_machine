@@ -18,7 +18,7 @@ class Application {
         this.routes();
     }
     setting() {
-        this.app.set('port', 3000.);
+        this.app.set('port', 5000.);
         this.app.set('views', path_1.default.join(__dirname, 'views'));
         this.app.engine('.hbs', express_handlebars_1.default({
             layoutsDir: path_1.default.join(this.app.get('views'), 'layouts'),
