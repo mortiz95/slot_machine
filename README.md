@@ -6,7 +6,7 @@ This is a test from NetEnt Company
 2. Download Code
 3. Open terminal inside project folder
 4. npm start
-5. View on port localhost:3000
+5. View on port localhost:5000
 
 
 
