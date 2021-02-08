@@ -19,7 +19,7 @@ class Application {
     }
 
     setting(){
-        this.app.set('port',3000.);
+        this.app.set('port',5000.);
         this.app.set('views',path.join(__dirname,'views'));
         this.app.engine('.hbs',exphbs({
             layoutsDir: path.join(this.app.get('views'),'layouts'),
